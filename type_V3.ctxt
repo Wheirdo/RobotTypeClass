@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=void\ main()
-comment1.params=text
-comment1.target=void\ typeV3(java.lang.String)
-comment1.text=\ fuck\ off\ /ENTR/\r\n\ This\ is\ the\ 3rd\ iteration\ of\ the\ type\ class\ and\ a\ copy\ of\ type3.\ See\ version\ 1\ for\ a\ general\ explanation\r\n\ 0123456789\!@\#$%^&*()-_\=+[]{};\:,<.>?"'/|\\\r\n\ the\ quick\ brown\ fox\ jumps\ over\ a\ lazy\ dog\r\n\ THE\ QUICK\ BROWN\ FOX\ JUMPS\ OVER\ A\ LAZY\ DOG\r\n\ words/ENTR/more\ words/ENTR//TAB\ /even\ more\ words/LEFT//RGHT//UP\ \ //DOWN//ESC\ /\r\n\ \r\n\ V3\ reads\ from\ a\ cvs\ file\ (named\ KeyEvents)\ with\ all\ the\ numbers\ and\ characters,\ and\ loops\ through\ that\ file\ every\ time\r\n\ Pros\:\ This\ is\ the\ shortest\ version,\ and\ easiest\ to\ read,\ with\ only\ 2\ sections\ for\ parsing\ words\r\n\ Cons\:\ You\ need\ the\ file\ for\ it\ to\ work,\ it\ might\ be\ slower,\ and\ the\ comma\ doesn't\ work\ and\ must\ be\ hardcoded\r\n\ \r\n\ I\ really\ like\ this\ solution\ (and\ don't\ think\ I\ can\ make\ it\ any\ shorter),\ I\ want\ the\ final\ solution\ not\ to\ rely\ on\ a\ file\r\n
-comment2.params=
-comment2.target=java.util.List\ readFile()
-numComments=3
