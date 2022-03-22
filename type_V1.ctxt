@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=void\ main()
-comment1.params=text
-comment1.target=void\ typeV1(java.lang.String)
-comment1.text=\r\n\ This\ is\ a\ copy\ of\ the\ type\ class,\ but\ with\ comments\ and\ explanations\r\n\ \r\n\ Takes\ in\ a\ string\ and\ uses\ the\ Robot\ Class\ to\ type\ it\ out\r\n\ This\ class\ needs\ to\ be\ thrown\ an\ Exception\ (either\ with\ 'throws\ Exception'\ or\ a\ try-catch)\r\n\ Works\ for\ all\ (english)\ letters\ and\ these\ characters\:\r\n\ 0123456789\!@\#$%^&*()-_\=+[]{};\:,<.>?"'/\\\r\n\ The\ following\ keys\ can\ be\ pressed\ if\ the\ following\ syntax\ is\ entered\r\n\ \ \ \ /BACK/\ \ \ Backspace\r\n\ \ \ \ /TAB\ /\ \ \ Tab\r\n\ \ \ \ /ENTR/\ \ \ Enter\r\n\ \ \ \ /ESC\ /\ \ \ Escape\r\n\ \ \ \ /LEFT/\ \ \ Left\ Arrow\r\n\ \ \ \ /UP\ \ /\ \ \ Up\ Arrow\r\n\ \ \ \ /RGHT/\ \ \ Right\ Arrow\r\n\ \ \ \ /DOWN/\ \ \ Down\ Arrow\r\n\ \ \ \ \r\n\ \ \ \ If\ you\ give\ the\ class\ a\ character\ not\ in\ the\ above\ list,\ it\ types\ a\ space\r\n\ \ \ \ A\ full\ list\ of\ all\ KeyEvent\ for\ typing\ can\ be\ found\ here\:\ https\://stackoverflow.com/questions/15313469/java-keyboard-keycodes-list\r\n\ \ \ \ \r\n\ \ \ \ \r\n\ \ \ \ This\ is\ version\ 1,\ and\ is\ fully\ functional,\ but\ very\ long.\ V2\ seeks\ to\ be\ shorter\r\n
-numComments=2
